@@ -1,5 +1,5 @@
 ## Screenshot
-![screenshot](https://github.com/jackrabbit72380/CemuGUI/Screenshot.png)
+![Screenshot](https://github.com/jackrabbit72380/CemuGUI/Screenshot.png)
 
 Abount CemuGui2.0 Beta
 
