@@ -1,3 +1,5 @@
+## Screenshot
+![Screenshot](https://github.com/jackrabbit72380/CemuGUI/blob/main/Screenshot.png
 
 Abount CemuGui2.0 Beta
 
@@ -60,5 +62,4 @@ Then Check Program DIP set it to "I open this program"
 & Then Check high DPI scaling override "System (Enhanced)"
 
 ☮
-## Screenshot
-![Screenshot](https://github.com/jackrabbit72380/CemuGUI/Screenshot.png)
+
