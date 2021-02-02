@@ -1,3 +1,6 @@
+## Screenshot
+![screenshot](https://github.com/jackrabbit72380/CemuGUI/Screenshot.png)
+
 Abount CemuGui2.0 Beta
 
 CemuGUI is a Frontend for the Nintendo Wii U emulator Cemu that plays retail Nintendo Wii U Games on your Pc.
