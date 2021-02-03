@@ -1,4 +1,8 @@
 
+
+## Screenshot
+![Screenshot](https://github.com/jackrabbit72380/CemuGUI/blob/main/Screenshot.png
+
 Abount CemuGui2.0 Beta
 
 CemuGUI is a Frontend for the Nintendo Wii U emulator Cemu that plays retail Nintendo Wii U Games on your Pc.
@@ -60,6 +64,3 @@ Then Check Program DIP set it to "I open this program"
 & Then Check high DPI scaling override "System (Enhanced)"
 
 ☮
-
-## Screenshot
-![Screenshot](https://github.com/jackrabbit72380/CemuGUI/blob/main/Screenshot.png
