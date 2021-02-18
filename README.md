@@ -1,4 +1,8 @@
 CemuGui2.0 Beta
+
+## Icon
+![Screenshot](https://github.com/jackrabbit72380/CemuGUI/blob/main/config.png)
+
 ## Screenshot
 ![Screenshot](https://github.com/jackrabbit72380/CemuGUI/blob/main/Screenshot.png)
 
