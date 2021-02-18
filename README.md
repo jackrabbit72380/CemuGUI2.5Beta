@@ -1,4 +1,4 @@
-CemuGui2.0 Beta
+CemuGui2.5 Beta
 
 ## Icon
 ![Screenshot](https://github.com/jackrabbit72380/CemuGUI/blob/main/config.png)
