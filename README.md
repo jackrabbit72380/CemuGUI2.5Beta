@@ -42,4 +42,4 @@ Path=F:\Emulators\Cemu\Cemu\Cemu.
 Next Your going to want to open your propertys menu navigate to compatability tab then tic Run as Anmin then click "Change high DPI settings"
 Then Check Program DIP set it to "I open this program"
 & Then Check high DPI scaling override "System (Enhanced)"
-☮
+☮ Enjoy!
